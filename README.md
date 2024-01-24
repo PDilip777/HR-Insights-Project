@@ -31,7 +31,7 @@ Insights:
 
 Dashboard or Report:
 
-                -> The implementation of the dashboard is estimated to save the HR team 3-4 hours per day.
+           -> The implementation of the dashboard is estimated to save the HR team 3-4 hours per day.
 
 ![HR Analytics Dashboard-page-001](https://github.com/PDilip777/HR-Insights-Project/assets/157594735/ec7226be-2389-49c6-ad68-5c0b42d09f45)
 
