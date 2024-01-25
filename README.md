@@ -1,6 +1,6 @@
 # HR Presence Insights Project
 
-Dashboard Link: 
+Dashboard Link: https://www.novypro.com/project/hr-insights-project
 
 Problem statement:
 
