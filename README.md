@@ -1,6 +1,6 @@
 # HR Presence Insights Project
 
-Dashboard Link: https://www.novypro.com/project/hr-insights-project
+Live Dashboard: https://www.novypro.com/project/hr-insights-project
 
 Problem statement:
 
@@ -12,7 +12,7 @@ As a data analyst, to solve the problem of analysing employee attendance and pre
 
 Data Set:
 
-We are provided with the Excel datasheet which contains the employee’s data for 3 months between April 2022-June 2022. Data set contains employee’s attendance data along with attendance keys E.g.: SL --> Sick Leave.
+We are provided with the Excel datasheet which contains the employee’s data for 3 months between April 2022-June 2022. Data set contains employee’s attendance data along with attendance keys.
 
 Task:
 
@@ -31,7 +31,7 @@ Insights:
 
 Dashboard or Report:
 
-           -> The implementation of the dashboard is estimated to save the HR team 3-4 hours per day.
+  -> The implementation of the dashboard is estimated to save the HR team 3-4 hours per day.
 
 ![HR Analytics Dashboard-page-001](https://github.com/PDilip777/HR-Insights-Project/assets/157594735/ec7226be-2389-49c6-ad68-5c0b42d09f45)
 
